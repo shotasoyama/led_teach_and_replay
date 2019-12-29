@@ -5,7 +5,7 @@
 授業内ででたプログラムを改良し、LEDの光る順番を教示し
 その順番を再現するプログラムを作成した。
 
-[デモ動画](https://www.youtube.com)
+[デモ動画](https://youtu.be/vjrxESQ7cBE)
 
 ## 動作環境
 
