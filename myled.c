@@ -103,6 +103,12 @@ static ssize_t led_write(struct file* filp, const char* buf, size_t count, loff_
                 	}
 		}
 	}
+        else if(c == 'R'){
+                j = 0;
+		for(i = 0; i < 5; i++){
+			date[i] = 0;
+		}
+        }
 	return 1;
 }
 
